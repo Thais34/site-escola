@@ -1,0 +1,100 @@
+.div1{
+    margin: auto;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: black;
+    background-color: azure;
+    
+    
+}
+.home{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: larger;
+    color:black;
+    margin: auto;
+    padding: 10px;
+}
+.foto1pg{
+    border-width: 20px;
+    border-style: double;
+    border-color: blue;
+
+}
+
+
+
+.imagem{
+    margin:0;
+    padding:0px;
+    border-radius:100px;
+    border-bottom: 10px;
+    display:inline-block;
+}
+.imagem1{
+    border-radius: 400px;
+    margin-top: 0px;
+    border-width: 20px;
+    border-style: double;
+    border-color: blue;
+
+
+}
+
+#nome{
+    text-align:center;
+    color: blue;
+    background-color:yellow;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
+.cabeçalho{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    margin:0px;
+    padding: 0px;
+}
+.foto{
+    border-width: 20px;
+    border-style: double;
+    border-color: blue;
+
+}
+
+.alimentos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.Sobre{
+    text-align: justify;
+    color:black;
+    font-size:large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 100px;
+}
+
+.alimentação{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    color: black;
+}
+
+.rodapé{
+    border: 10px solid yellow;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-size:smaller;
+}
+.fotocomendo{
+    border-width: 20px;
+    border-style:double;
+    border-color: blue;
+    display: inline-table;
+}
+.figuras{
+    border:10px solid blue;
+    border-radius: 10px;
+    display: inline-table;
+}
